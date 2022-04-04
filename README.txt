@@ -1,5 +1,7 @@
 Code developed by Mourad Lasga Terceras, 190411013
 
+This ros package moves the panda robot's end effector to draw a square in the x-y plane. 
+
 To run the package:
 
 0) Download and install the following packages:
