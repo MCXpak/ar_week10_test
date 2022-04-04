@@ -1,6 +1,6 @@
 Code developed by Mourad Lasga Terceras, 190411013
 
-To run teh package:
+To run the package:
 
 0) Download and install the following packages:
 - git clone -b ROS-DISTRO-devel https://github.com/ros-planning/moveit_tutorials.git
